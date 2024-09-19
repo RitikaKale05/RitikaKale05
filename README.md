@@ -1,6 +1,6 @@
 # Ritika Kale
 **Software Developer**
-
+[LinkedIn](https://linkedin.com/in/ritikakale) | [Portfolio](https://ritikakale05.github.io/)
 ## 💻 About Me
 I am a dedicated software engineer with a strong background in both front-end and back-end development. I recently graduated from SUNY Binghamton with a Master’s in Computer Science. I specialize in creating scalable and innovative web applications using technologies like React.js and Django. I love working on innovative projects and exploring new technologies.
 
@@ -60,5 +60,4 @@ Nashik, India | Nov 2019 - Feb 2020
   - Database: MongoDB  
   - Tools: Jupyter Notebook  
 
-## 📬 Get in Touch
-- [LinkedIn](https://linkedin.com/in/ritikakale)
+
